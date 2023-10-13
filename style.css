@@ -1,0 +1,30 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  background-color: #faf9f6;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+}
+.main {
+  flex: 1;
+}
+
+h1 {
+  font-size: 10rem;
+  margin:0%
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+}
+
+image {margin-bottom: 100px; 
+    height: 10px; float: left; display: inline;}
+
+.logo {height: 10rem; float:left; margin:0%}
+p {font-size: 2rem; font-weight: bold;}
+
+.diary {text-align:right; display: inline;}
+.footer {text-align:left}
